@@ -1,7 +1,7 @@
 {
   "name": "tic-tac-toe-pwa",
   "version": "0.1.0",
-  "homepage": "https://pesekt1.github.io/react-gh-pages",
+  "homepage": "https://pesekt1.github.io/tic-tac-toe-pwa",
   "private": true,
   "dependencies": {
     "@material-ui/core": "^4.11.4",
